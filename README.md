@@ -1,12 +1,27 @@
 # DEMO
 
-Some description
-New description
+Markdown syntax for GitHub
 
-## Subheader
+# This is the main headline
 
-Watch YouTube
+## Lists
 
-## Local Development
+- Main list
+  - Sub list
+    1. Numbered list
+```html
+<p>This is a HTML para</p>
+```
+```javascript
+console.log(Math.random());
+````
+Links
 
-1. Open index.html in your browser
+[This is a demo link](https://www.facebook.com)
+
+Blockquotes
+> some para in blockquote
+
+** bold **
+* italic *
+~~strikethrough~~
